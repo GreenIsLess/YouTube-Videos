@@ -6,5 +6,4 @@ Here Are The Rules...
 Have Fun!
 ## YouTube Videos Is Now Unarchived!
 New Things / Videos Coming Soon™
-
 Also Something New, This Is (Slowly) Becoming A Github Pages Site! So Stay Tuned For That!
